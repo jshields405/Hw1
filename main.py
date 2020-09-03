@@ -100,4 +100,4 @@ credit3 = float(credit3)
 
 GPA = (gradepoint1 * credit1 + gradepoint2 * credit2 +
        gradepoint3 * credit3) / (credit1 + credit2 + credit3)
-print(f"\nYour GPA is: {GPA} ")
+print(f"\nYour GPA is: {GPA}")
