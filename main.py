@@ -28,6 +28,7 @@ elif (gradepoint1 == 'D' or gradepoint1 == 'd'):
     print("Grade point for course 1 is: 1.0")
     gradepoint1 = 1.0
 else:
+   print("Grade point for course 1 is: 0.0")
     gradepoint1 = 0.0
 
 gradepoint2 = input("Enter your course 2 letter grade: ")
@@ -58,6 +59,7 @@ elif (gradepoint2 == 'D' or gradepoint2 == 'd'):
     print("Grade point for course 2 is: 1.0")
     gradepoint2 = 1.0
 else:
+    print("Grade point for course 1 is: 0.0")
     gradepoint2 = 0.0
 
 gradepoint3 = input("Enter your course 3 letter grade: ")
@@ -88,6 +90,7 @@ elif (gradepoint3 == 'D' or gradepoint3 == 'd'):
     print("Grade point for course 3 is: 1.0")
     gradepoint3 = 1.0
 else:
+    print("Grade point for course 1 is: 0.0")
     gradepoint3 = 0.0
 
 credit1 = float(credit1)
