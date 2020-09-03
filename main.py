@@ -42,10 +42,10 @@ elif (gradepoint2 == 'A-' or gradepoint2 == 'a-'):
   print("Grade point for course 2 is 3.67")
   gradepoint2 = 3.67
 elif (gradepoint2 == 'B+' or gradepoint2 == 'b+'):
-  print("Grade point for course 1 is 3.33")
+  print("Grade point for course 2 is 3.33")
   gradepoint2 = 3.33
 elif (gradepoint2 == 'B' or gradepoint2 == 'b'):
-  print("Grade point for course 1 is 3.0")
+  print("Grade point for course 2 is 3.0")
   gradepoint2 = 3.0
 elif (gradepoint2 == 'B-' or gradepoint2 == 'b-'):
   print("Grade point for course 2 is 2.67")
