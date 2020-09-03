@@ -59,7 +59,7 @@ elif (gradepoint2 == 'D' or gradepoint2 == 'd'):
     print("Grade point for course 2 is: 1.0")
     gradepoint2 = 1.0
 else:
-    print("Grade point for course 3 is: 0.0")
+    print("Grade point for course 2 is: 0.0")
     gradepoint2 = 0.0
 
 gradepoint3 = input("Enter your course 3 letter grade: ")
